@@ -1,5 +1,5 @@
 ---
-title: Collection Item
+title: Objeto de la colección
 layout: item
 permalink: /item.html
 # see _data/config-metadata.csv for display options
