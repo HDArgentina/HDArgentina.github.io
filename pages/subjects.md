@@ -1,5 +1,5 @@
 ---
-title: Subjects
+title: Temas
 layout: cloud
 permalink: /subjects.html
 # Default subject page is configured in "_data/theme.yml"
@@ -8,7 +8,7 @@ permalink: /subjects.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-## Browse Subjects
+## Navega mediante temas
 
-Use this word cloud visualization to browse terms and subjects.
-Word size is determined by frequency and all words link to a corresponding collection search.
+Utiliza esta nube de palabras para navegar en el archivo a través de temas mencionados en las entrevistas.
+El tamaño de la palabra está determinado por su frecuencia y todos los temas están enlazados a las grabaciones en las que aparecen mencionados.
