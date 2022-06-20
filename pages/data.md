@@ -1,13 +1,13 @@
 ---
-title: Data
+title: Datos de la colección
 layout: data
 permalink: /data.html
 # see _data/config-table.csv for table display options
 # a table visualization will be added below the content in this file
 ---
 
-## Collection Metadata
+## Metadatos de la colección
 
-The table below provides sorting and basic search of the collection contents. 
-Use the "CSV" or "Excel" button below to download the filtered metadata you see on the page in your preferred format. 
-Alternatively, click the "Download" button at the top right to view the full collection metadata in various export formats. 
+La siguiente tabla proporciona una clasificación y una búsqueda básicas de los contenidos de la colección.
+
+Usa el botón "CSV" o "Excel" para descargar los metadatos, filtrados, que ves en la página. Si quieres descargar todos los datos, haz clic en el botón "Descargar" en la parte superior derecha para ver los metadatos completos de la colección en varios formatos de exportación.
